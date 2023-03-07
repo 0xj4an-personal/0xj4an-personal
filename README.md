@@ -23,6 +23,7 @@ You can click the Preview link to take a look at your changes.
 - 💞️ I’m looking to collaborate on building strong crypto ecosystems around the world
 - 📫 How to reach me ... you can check www.juanjosegiraldo.com there are all my profiles
 
+My First participation in a Hackathon was at ETHDenver2023: https://app.buidlbox.io/projects/truthgpt
 
 
 
